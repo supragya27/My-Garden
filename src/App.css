@@ -1,0 +1,46 @@
+.empty {
+  color: lightslategray;
+}
+@media screen and (max-width: 800px){
+.pvn, .col-sm-4{
+  margin-top:20%
+}}
+.warning {
+  color: red;
+  margin-top:10%;
+}
+.heading {
+  margin: 3rem;
+}
+.avalvar {
+  border-style: solid;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.rowtop {
+  height: 400px;
+}
+.planvar {
+  border-style: solid;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.flwPanel {
+  height: 45%;
+  width: 45%;
+  border-style: solid;
+  float: left;
+  border-color: brown;
+  margin: 1%;
+}
+img {
+  height: 90%;
+  width: 100%;
+}
+.flowName {
+  text-align: center;
+  font-style: italic;
+  height: 10%;
+}
